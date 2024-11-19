@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hi there 👋<br><br>
 
-I'm Shubham Buchwani, a B.Tech CSE student specializing in Cybersecurity and Ethical Hacking. I also have a strong passion for front-end web development.
+I'm Shubham Buchwani, a B.Tech CSE student specializing in Cybersecurity and Ethical Hacking. I also have a strong passion for front-end web development.<br><br>
 
-🛠️ Tech Skills
-Cybersecurity & Ethical Hacking: Experienced with TryHackMe labs like VulnUniversity and Introductory Networking.
-Web Development: Proficient in HTML, CSS, JavaScript, React (or other relevant tools you know).
-Tools & Platforms: GitHub, VS Code, Linux (if applicable), and more.
+## 🛠️ Tech Skills<br>
+Cybersecurity & Ethical Hacking: Experienced with TryHackMe labs like VulnUniversity and Introductory Networking.<br>
+Web Development: Proficient in HTML, CSS, JavaScript, React (or other relevant tools you know).<br>
+Tools & Platforms: GitHub, VS Code, Linux (if applicable), and more.<br><br>
 
-🔗 Let's Connect!
-LinkedIn - www.linkedin.com/in/shubham-buchwani
-TryHackMe - https://tryhackme.com/r/p/ShubhamBuchwani
+## 🔗 Let's Connect!<br>
+LinkedIn - www.linkedin.com/in/shubham-buchwani<br>
+TryHackMe - https://tryhackme.com/r/p/ShubhamBuchwani<br>
 Portfolio - Coming Soon!
